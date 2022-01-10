@@ -1,6 +1,6 @@
-# https://youtu.be/oqwNd1pO3ko
-
-1. Открыть Chrome DevTools.
+[!DevTools ](https://user-images.githubusercontent.com/89486551/136409359-48f8e883-5fc5-454b-9892-043adf581453.png)](https://youtu.be/oqwNd1pO3ko)
+===
+ 1. Открыть Chrome DevTools.
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
  4. Включить режим мобильного деввайса (Device Mode)
