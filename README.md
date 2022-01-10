@@ -1,4 +1,4 @@
-[!DevTools ](https://user-images.githubusercontent.com/89486551/136409359-48f8e883-5fc5-454b-9892-043adf581453.png)](https://youtu.be/oqwNd1pO3ko)
+  [!DevTools](https://user-images.githubusercontent.com/89486551/136409359-48f8e883-5fc5-454b-9892-043adf581453.png)](https://youtu.be/oqwNd1pO3ko)
 ===
  1. Открыть Chrome DevTools.
  2. Зайти в панель Elements.
