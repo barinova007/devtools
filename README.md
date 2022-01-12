@@ -1,5 +1,7 @@
-  [!DevTools](https://user-images.githubusercontent.com/89486551/136409359-48f8e883-5fc5-454b-9892-043adf581453.png)](https://www.youtube.com/watch?v=oqwNd1pO3ko&ab_channel=QALenaBarinova)
+ [![Devtools](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdevmount%2Fchromium-developer-tools-can-do-that-3ebe&psig=AOvVaw0LgLT5M9sYZY4FXgx8CtG6&ust=1642091658235000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNDu2rTSrPUCFQAAAAAdAAAAABAE)](https://www.youtube.com/watch?v=oqwNd1pO3ko&ab_channel=QALenaBarinova)]
 ===
+
+
  1. Открыть Chrome DevTools.
  2. Зайти в панель Elements.
  3. Найти инспектором кнопку Submit и выровнять слово Submit по центру
